@@ -12,12 +12,12 @@
 <p align="center">
   <a href="https://greeninvest-pakistan.vercel.app"><strong>Open the live calculator</strong></a>
   ·
-  <a href="https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/releases/latest/download/GreenInvest-Windows-x64.zip"><strong>Download for Windows</strong></a>
+  <a href="https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest/download/GreenInvest-Windows-x64.zip"><strong>Download for Windows</strong></a>
   ·
-  <a href="https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/releases/latest"><strong>Release notes and checksums</strong></a>
+  <a href="https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest"><strong>Release notes and checksums</strong></a>
 </p>
 
-> This public repository contains consumer documentation and compiled release
+> This public repository contains product documentation and compiled release
 > packages. It does not contain GreenInvest's proprietary calculation source,
 > ranking rules, methodology implementation, pricing catalogue, private owner
 > tools, database configuration, or engineering history.
@@ -61,7 +61,7 @@ It offers two starting points:
 
 The Windows package is portable and standalone:
 
-1. Download [`GreenInvest-Windows-x64.zip`](https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/releases/latest/download/GreenInvest-Windows-x64.zip).
+1. Download [`GreenInvest-Windows-x64.zip`](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest/download/GreenInvest-Windows-x64.zip).
 2. Right-click the ZIP and select **Extract All**.
 3. Open the extracted folder and run `GreenInvest.exe`.
 
@@ -85,7 +85,7 @@ or home address for a recommendation. The public impact view contains aggregate
 project records, not individual responses or comments. Optional comments should
 never contain bills, account numbers, addresses, or identifying details.
 
-Read the complete [consumer privacy summary](PRIVACY.md).
+Read the complete [privacy summary](PRIVACY.md).
 
 ## Important decision boundary
 
@@ -101,8 +101,8 @@ Read [known limitations](KNOWN-LIMITATIONS.md).
 ## Support and security
 
 - General help: [support guide](SUPPORT.md)
-- Product problem: [open an issue](https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/issues/new/choose)
-- Sensitive security report: [private vulnerability report](https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/security/advisories/new)
+- Product problem: [open an issue](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/issues/new/choose)
+- Sensitive security report: [private vulnerability report](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new)
 - Live service: [greeninvest-pakistan.vercel.app](https://greeninvest-pakistan.vercel.app)
 
 Do not put electricity bills, addresses, account numbers, private quotations,
@@ -112,6 +112,6 @@ owner tokens, or other personal information in a public GitHub issue.
 
 GreenInvest Pakistan remains an independently owned product. Public access to
 this repository does not make the proprietary model open source. Consumers may
-download and use the unmodified compiled application under [the consumer-use
-notice](LICENSE.md). Bundled open-source components retain their own licences;
+download and use the unmodified compiled application under [the use and
+distribution notice](LICENSE.md). Bundled open-source components retain their own licences;
 see [third-party notices](THIRD-PARTY-NOTICES.md).

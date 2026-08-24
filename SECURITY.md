@@ -9,7 +9,7 @@ and modified packages are not supported.
 ## Reporting a vulnerability
 
 Use GitHub's
-[private vulnerability reporting](https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/security/advisories/new).
+[private vulnerability reporting](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new).
 Include the affected release, operating system or hosted route, reproduction
 steps, impact, and any safe proof of concept.
 

@@ -1,5 +1,5 @@
 name: Documentation improvement
-description: Suggest a clearer consumer explanation or correction.
+description: Suggest a clearer public explanation or correction.
 title: "[Docs]: "
 labels:
   - documentation

@@ -1,4 +1,4 @@
-# Consumer privacy summary
+# GreenInvest Pakistan privacy summary
 
 ## Information used for a calculation
 

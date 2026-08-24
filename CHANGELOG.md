@@ -1,8 +1,8 @@
-# Consumer changelog
+# GreenInvest Pakistan changelog
 
 ## 4.3.0 — 24 August 2026 public distribution
 
-- Publish the separate consumer and release repository without proprietary
+- Publish the separate public release repository without proprietary
   model source or private operator tooling.
 - Provide guided recommendation and installer quote-check journeys.
 - Include recommendation, plan comparison, solar/inverter/battery sizing,

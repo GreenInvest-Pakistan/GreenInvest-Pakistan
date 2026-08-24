@@ -1,4 +1,4 @@
-# GreenInvest consumer-use notice
+# GreenInvest Pakistan use and distribution notice
 
 Copyright © 2026 GreenInvest Pakistan. All rights reserved.
 

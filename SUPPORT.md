@@ -16,7 +16,7 @@ private installer quotations, saved-plan files, or screenshots containing
 personal information. Describe the issue with synthetic values instead.
 
 Sensitive security problems belong in a
-[private vulnerability report](https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/security/advisories/new),
+[private vulnerability report](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new),
 not a public issue.
 
 This repository cannot provide individual installer selection, structural

@@ -2,7 +2,7 @@
 
 ## Install
 
-1. Open the [latest release](https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer/releases/latest).
+1. Open the [latest release](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest).
 2. Download `GreenInvest-Windows-x64.zip` and the SHA-256 checksum file.
 3. Verify the archive.
 4. Use Windows **Extract All** and run `GreenInvest.exe` from the extracted folder.
