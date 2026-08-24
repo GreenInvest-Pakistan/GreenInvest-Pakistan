@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title description">
+  <title id="title">GreenInvest Pakistan</title>
+  <description id="description">Solar decision intelligence for Pakistan in the GreenInvest Solar Nocturne visual system.</description>
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="22%" r="58%">
+      <stop offset="0" stop-color="#F3C969" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#062920" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B7F34A"/>
+      <stop offset="1" stop-color="#79DBE1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" rx="32" fill="#062920"/>
+  <rect width="1600" height="500" rx="32" fill="url(#glow)"/>
+  <circle cx="1320" cy="160" r="265" fill="none" stroke="#B7F34A" stroke-opacity="0.12" stroke-width="2"/>
+  <circle cx="1320" cy="160" r="190" fill="none" stroke="#79DBE1" stroke-opacity="0.15" stroke-width="2"/>
+  <circle cx="1320" cy="160" r="112" fill="none" stroke="#F3C969" stroke-opacity="0.20" stroke-width="2"/>
+  <circle cx="1420" cy="84" r="11" fill="#F3C969"/>
+  <path d="M1030 395 C1160 318 1280 440 1510 278" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+  <rect x="92" y="76" width="58" height="58" rx="16" fill="#B7F34A"/>
+  <text x="121" y="114" text-anchor="middle" fill="#062920" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800">GI</text>
+  <text x="174" y="101" fill="#F9FCFA" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="2">GREENINVEST</text>
+  <text x="174" y="126" fill="#C9D9D1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="5">PAKISTAN</text>
+  <text x="92" y="245" fill="#F9FCFA" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="800">Your solar decision,</text>
+  <text x="92" y="315" fill="#B7F34A" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="800">finally clear.</text>
+  <text x="94" y="375" fill="#C9D9D1" font-family="Arial, Helvetica, sans-serif" font-size="22">Solar · battery · inverter · cost · future bill · reasons</text>
+  <text x="94" y="425" fill="#F3C969" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">CONSUMER DECISION INTELLIGENCE</text>
+</svg>

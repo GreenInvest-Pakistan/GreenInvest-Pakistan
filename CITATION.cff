@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If GreenInvest supports your project evaluation, cite the software release."
+title: "GreenInvest Pakistan"
+type: software
+version: 4.3.0
+date-released: 2026-08-24
+authors:
+  - name: "GreenInvest Pakistan"
+repository-code: "https://github.com/GreenInvest-Pakistan/GreenInvest-Consumer"
+url: "https://greeninvest-pakistan.vercel.app"
+abstract: "Consumer solar, battery, inverter, bill, risk, and installer-quote screening for Pakistan."
+license: LicenseRef-GreenInvest-Consumer
