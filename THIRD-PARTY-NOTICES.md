@@ -1,5 +1,9 @@
 # Third-party and open-source notices
 
+These notices document the open-source runtime components included in the
+official GreenInvest Pakistan Windows application. They are presented here for
+transparent review before download.
+
 The GreenInvest Windows package contains open-source runtime components. Those
 components remain governed by their own licences; their inclusion does not
 license GreenInvest's proprietary application model or source code.
@@ -37,3 +41,6 @@ The repository's [`LICENSES`](LICENSES) directory contains the core Python,
 GPL, LGPL, Chromium, and PyInstaller texts for review without downloading the
 application. The release archive contains the more complete package-by-package
 set generated from the exact locked build environment.
+
+See [Windows release verification](RELEASES.md) for the current package and
+checksum.

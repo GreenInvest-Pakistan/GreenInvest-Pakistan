@@ -1,5 +1,12 @@
 # Support
 
+| Need | Best route |
+| --- | --- |
+| Use GreenInvest now | [Open the live calculator](https://greeninvest-pakistan.vercel.app) |
+| Install on Windows | [Release and verification guide](RELEASES.md) |
+| Report a product problem | [Open a structured issue](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/issues/new/choose) |
+| Report a security problem | [Submit a private vulnerability report](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new) |
+
 ## Before opening an issue
 
 1. Confirm that the live calculator or the latest Windows release is being used.
@@ -22,3 +29,5 @@ not a public issue.
 This repository cannot provide individual installer selection, structural
 approval, electrical sign-off, financing approval, tax advice, or a guaranteed
 investment outcome.
+
+Return to the [GreenInvest Pakistan overview](README.md).

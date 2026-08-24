@@ -1,4 +1,5 @@
 *.zip
 *.exe
+.superdesign/
 .DS_Store
 Thumbs.db

@@ -1,5 +1,13 @@
 # GreenInvest Pakistan privacy summary
 
+## Privacy at a glance
+
+- No name, email address, home address or electricity account number is needed
+  for a recommendation.
+- The official Windows application performs calculations locally.
+- Public project-impact pages show aggregates, not individual responses.
+- Written feedback is optional and should never contain identifying details.
+
 ## Information used for a calculation
 
 GreenInvest processes the decision inputs entered in the calculator, such as
@@ -48,3 +56,5 @@ security infrastructure.
 
 Questions or deletion requests concerning a submitted comment can be raised
 through the [support process](SUPPORT.md) without posting the comment publicly.
+
+Return to the [GreenInvest Pakistan overview](README.md).

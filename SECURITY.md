@@ -1,5 +1,8 @@
 # Security policy
 
+GreenInvest publishes official application downloads only through the
+[GreenInvest Pakistan release page](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases).
+
 ## Supported releases
 
 Security corrections apply to the latest published GreenInvest Windows release
@@ -25,3 +28,5 @@ using [RELEASES.md](RELEASES.md). A mismatched archive should not be opened.
 The Windows preview is not presently code-signed, so a valid checksum confirms
 file identity but does not replace operating-system reputation or signature
 checks.
+
+For ordinary product problems, use the [support process](SUPPORT.md).

@@ -1,6 +1,12 @@
 # GreenInvest Pakistan changelog
 
-## 4.3.0 — 24 August 2026 public distribution
+Product-facing release history for the official live calculator and standalone
+Windows application. Downloadable files and integrity information are published
+on the [release page](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases).
+
+## 4.3.0 — 24 August 2026
+
+### Product release
 
 - Publish the separate public release repository without proprietary
   model source or private operator tooling.

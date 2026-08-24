@@ -1,5 +1,9 @@
 # Known limitations
 
+GreenInvest is designed to improve an early solar decision, not to hide the
+uncertainty around it. These boundaries apply to the hosted calculator and the
+current Windows release.
+
 - GreenInvest is a screening model, not a site survey, structural assessment,
   electrical design, installer quotation, warranty, financing offer, or tax
   calculation.
@@ -28,3 +32,6 @@
 Always obtain itemised proposals and confirm the final design, protection,
 earthing, roof structure, warranties, utility treatment, and complete payable
 bill before purchase.
+
+Return to the [product overview](README.md) or review the
+[privacy summary](PRIVACY.md).

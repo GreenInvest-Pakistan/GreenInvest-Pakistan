@@ -2,6 +2,9 @@
 
 Copyright © 2026 GreenInvest Pakistan. All rights reserved.
 
+The official product page and distribution channel is
+[github.com/GreenInvest-Pakistan/GreenInvest-Pakistan](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan).
+
 Permission is granted to download, install, and use the unmodified compiled
 GreenInvest Pakistan application for personal, educational, evaluation, and
 internal decision-support purposes.
