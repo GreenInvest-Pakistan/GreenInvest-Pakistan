@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="GreenInvest 4.3.0" src="https://img.shields.io/badge/release-4.3.0-0E7658?style=flat-square">
+  <img alt="GreenInvest 4.4.0" src="https://img.shields.io/badge/release-4.4.0-0E7658?style=flat-square">
   <img alt="Pakistan-specific screening" src="https://img.shields.io/badge/market-Pakistan-F3C969?style=flat-square&labelColor=10251F">
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-1A7782?style=flat-square&logo=windows&logoColor=white">
   <img alt="Standalone Windows application" src="https://img.shields.io/badge/desktop-standalone-B7F43B?style=flat-square&labelColor=10251F">
@@ -86,11 +86,20 @@ before speaking to an installer or committing capital.
 
 ## Built for Pakistan's real decision context
 
-GreenInvest screens Pakistan consumption slabs and fixed grid charges while
-making clear that the final payable bill can also include taxes, fuel and
-quarterly adjustments, duties, surcharges, television fees, arrears, minimum
-charges and utility-specific items. It models seasonal demand rather than
-pretending the same electricity use occurs every month.
+GreenInvest 4.4.0 applies a 2026 LESCO reference schedule selected from the
+consumer's connection type and connected load. Residential calculations use
+nine consumption bands; commercial and industrial calculations use their own
+regular or time-of-use rates and per-kW fixed charges. The calculator does not
+offer an agricultural category.
+
+The final payable bill can also include taxes, fuel and quarterly adjustments,
+duties, surcharges, television fees, arrears, minimum charges and other
+utility-specific items. GreenInvest therefore shows these as additional bill
+items and asks consumers to compare the selected category and rates with a
+recent electricity bill. It also models seasonal demand rather than pretending
+the same electricity use occurs every month.
+
+[Review the current consumer tariff reference](TARIFFS.md)
 
 The result keeps the assumptions visible so it can support a better installer
 conversation—not replace the professional checks that happen before purchase.
@@ -146,7 +155,8 @@ warranties, utility treatment and complete payable bill.
 
 | Resource | Official location |
 | --- | --- |
-| Current release | [GreenInvest Pakistan 4.3.0](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest) |
+| Current release | [GreenInvest Pakistan 4.4.0](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest) |
+| Consumer tariff reference | [2026 residential, commercial, and industrial schedule](TARIFFS.md) |
 | Windows verification | [Installation and SHA-256 instructions](RELEASES.md) |
 | Product support | [Support guide](SUPPORT.md) |
 | Product issue | [Open a structured issue](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/issues/new/choose) |

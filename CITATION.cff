@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "Please cite GreenInvest Pakistan 4.3.0 when it supports a project evaluation."
+message: "Please cite GreenInvest Pakistan 4.4.0 when it supports a project evaluation."
 title: "GreenInvest Pakistan"
 type: software
-version: 4.3.0
-date-released: 2026-08-24
+version: 4.4.0
+date-released: 2026-08-26
 authors:
   - name: "GreenInvest Pakistan"
 repository-code: "https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan"

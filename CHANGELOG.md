@@ -4,6 +4,25 @@ Product-facing release history for the official live calculator and standalone
 Windows application. Downloadable files and integrity information are published
 on the [release page](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases).
 
+## 4.4.0 — 26 August 2026
+
+### Tariff and consumer release
+
+- Replace the previous tariff assumptions with the GreenInvest 2026 LESCO
+  reference schedule.
+- Add category-aware billing for residential, commercial, and industrial
+  connections, including connected-load bands, time-of-use rates, and fixed
+  charges where applicable.
+- Apply nine residential consumption bands from lifeline through above 700
+  units, with the selected connection phase determining the fixed charge.
+- Keep agricultural pricing outside the supported calculator categories.
+- Use concise reference-schedule language with a direct reminder to compare the
+  selected rates with a recent bill.
+- Preserve taxes, fuel and quarterly adjustments, duties, surcharges, minimum
+  bills, and other utility items as visible additional-charge assumptions.
+- Publish the same tariff logic in the hosted calculator and standalone Windows
+  application.
+
 ## 4.3.0 — 24 August 2026
 
 ### Product release

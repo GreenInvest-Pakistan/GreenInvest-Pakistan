@@ -7,10 +7,11 @@ current Windows release.
 - GreenInvest is a screening model, not a site survey, structural assessment,
   electrical design, installer quotation, warranty, financing offer, or tax
   calculation.
-- The displayed Pakistan consumption-slab rates and fixed grid charges do not
-  represent every possible bill line. Taxes, fuel adjustments, quarterly
-  adjustments, duties, surcharges, television fees, arrears, minimum charges,
-  and utility-specific items can raise the payable bill.
+- The 2026 LESCO reference schedule covers residential, commercial, and
+  industrial categories. It does not represent every possible connection,
+  utility, or bill line. Taxes, fuel adjustments, quarterly adjustments,
+  duties, surcharges, television fees, arrears, minimum charges, and other
+  utility-specific items can raise the payable bill.
 - Tariffs, net-metering or export rules, equipment availability, market prices,
   and government policy can change after a release.
 - Solar resource and seasonal demand are estimates. Shade, orientation, dust,
