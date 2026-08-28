@@ -4,11 +4,11 @@
 
 | Item | Value |
 | --- | --- |
-| Product | GreenInvest Pakistan 4.4.0 |
+| Product | GreenInvest Pakistan 4.5.0 |
 | Platform | 64-bit Windows 10 and 11 |
 | Package | `GreenInvest-Windows-x64.zip` |
-| Download size | 155.2 MiB |
-| SHA-256 | `F86158D26E908AFA288313F7E9C0C126E5AA0423B306B729EE806BCCC8129754` |
+| Download size | 155.8 MiB |
+| SHA-256 | `F857810F39B23A68505485B108D546937D6E2E92107C7FEDC0CDD9BACBCAE686` |
 
 ## Install
 

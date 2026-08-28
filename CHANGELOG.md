@@ -4,6 +4,25 @@ Product-facing release history for the official live calculator and standalone
 Windows application. Downloadable files and integrity information are published
 on the [release page](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases).
 
+## 4.5.0 — 28 August 2026
+
+### Brand and large-project release
+
+- Apply the approved GreenInvest Pakistan identity to the web experience,
+  browser metadata, repository presentation and Windows application.
+- Extend commercial and industrial screening through 4 MW solar, 100 MWh
+  storage and 6 MW of continuous battery-inverter capacity.
+- Add large-project solar, panel, inverter, battery, balance-of-system and
+  architecture price anchors with restrained procurement-scale savings.
+- Replace a dense multi-megawatt combination grid with contextual candidates
+  around connected load, energy use, bill target, backup duration, budget and
+  available site area.
+- Preserve the detailed household search and exact small-system price records.
+- Add multi-megawatt proposal fields and itemised battery quotation inputs for
+  commercial and industrial quote checks.
+- Publish the same tested capability in the hosted calculator and standalone
+  Windows application.
+
 ## 4.4.0 — 26 August 2026
 
 ### Tariff and consumer release
