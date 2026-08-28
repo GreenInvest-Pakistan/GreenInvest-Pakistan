@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/greeninvest-banner.svg" alt="GreenInvest Pakistan — clear solar decisions" width="100%">
+  <img src="assets/greeninvest-logo-detailed.png" alt="GreenInvest Pakistan" width="720">
 </p>
 
 <h1 align="center">GreenInvest Pakistan</h1>
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="GreenInvest 4.4.0" src="https://img.shields.io/badge/release-4.4.0-0E7658?style=flat-square">
+  <img alt="GreenInvest 4.5.0" src="https://img.shields.io/badge/release-4.5.0-0E7658?style=flat-square">
   <img alt="Pakistan-specific screening" src="https://img.shields.io/badge/market-Pakistan-F3C969?style=flat-square&labelColor=10251F">
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-1A7782?style=flat-square&logo=windows&logoColor=white">
   <img alt="Standalone Windows application" src="https://img.shields.io/badge/desktop-standalone-B7F43B?style=flat-square&labelColor=10251F">
@@ -53,6 +53,13 @@ before speaking to an installer or committing capital.
 | Start with electricity use, bill goals, budget, roof availability and backup needs. | Enter the proposed solar, battery, inverter and price details from a quotation. |
 | Receive a screened configuration and alternatives fitted to the stated constraints. | See whether the proposal fits the entered demand, bill target, backup requirement and budget. |
 | Best when you are deciding what to request from the market. | Best when you already have a proposal and want a structured second look. |
+
+GreenInvest scales with the decision. Household recommendations retain their
+fine-grained small-system search, while commercial and industrial screening can
+evaluate projects through **4 MW of solar, 100 MWh of storage and 6 MW of
+continuous battery-inverter capacity**. Large-project costs use explicit
+procurement anchors and restrained volume savings rather than applying one
+household price indefinitely.
 
 ## What arrives with the recommendation
 
@@ -86,7 +93,7 @@ before speaking to an installer or committing capital.
 
 ## Built for Pakistan's real decision context
 
-GreenInvest 4.4.0 applies a 2026 LESCO reference schedule selected from the
+GreenInvest 4.5.0 applies a 2026 LESCO reference schedule selected from the
 consumer's connection type and connected load. Residential calculations use
 nine consumption bands; commercial and industrial calculations use their own
 regular or time-of-use rates and per-kW fixed charges. The calculator does not
@@ -155,7 +162,7 @@ warranties, utility treatment and complete payable bill.
 
 | Resource | Official location |
 | --- | --- |
-| Current release | [GreenInvest Pakistan 4.4.0](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest) |
+| Current release | [GreenInvest Pakistan 4.5.0](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest) |
 | Consumer tariff reference | [2026 residential, commercial, and industrial schedule](TARIFFS.md) |
 | Windows verification | [Installation and SHA-256 instructions](RELEASES.md) |
 | Product support | [Support guide](SUPPORT.md) |

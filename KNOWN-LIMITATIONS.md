@@ -22,6 +22,13 @@ current Windows release.
   installation quality, and outage duration.
 - A desired bill, budget, roof limit, or backup requirement can be mutually
   incompatible. A conditional or do-not-install result is a valid outcome.
+- Commercial and industrial screening is bounded at 4 MW solar, 100 MWh
+  storage and 6 MW continuous battery-inverter capacity. Multi-megawatt results
+  are pre-feasibility screens based on maintained procurement assumptions, not
+  tender prices, interval-load studies or detailed electrical designs.
+- Projects at this scale require interval demand data, interconnection and
+  protection studies, competitive supplier quotations, site engineering and
+  qualified review before procurement.
 - Sensitivity and Monte Carlo outputs describe the model's stated screening
   ranges. They are not forecasts or guaranteed probabilities.
 - The Windows preview is not code-signed and may trigger SmartScreen. It supports

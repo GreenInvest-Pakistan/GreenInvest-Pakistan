@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-message: "Please cite GreenInvest Pakistan 4.4.0 when it supports a project evaluation."
+message: "Please cite GreenInvest Pakistan 4.5.0 when it supports a project evaluation."
 title: "GreenInvest Pakistan"
 type: software
-version: 4.4.0
-date-released: 2026-08-26
+version: 4.5.0
+date-released: 2026-08-28
 authors:
   - name: "GreenInvest Pakistan"
 repository-code: "https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan"
 url: "https://greeninvest-pakistan.vercel.app"
-abstract: "Pakistan-specific solar decision support covering system sizing, bills, battery backup, risk, uncertainty, and installer-quote screening."
+abstract: "Pakistan-specific solar decision support covering household through multi-megawatt system sizing, bills, battery backup, risk, uncertainty, and installer-quote screening."
 license: LicenseRef-GreenInvest-Proprietary

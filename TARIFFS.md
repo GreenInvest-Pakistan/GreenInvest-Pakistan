@@ -1,6 +1,6 @@
 # Consumer tariff reference
 
-GreenInvest Pakistan 4.4.0 uses the **GreenInvest 2026 LESCO reference
+GreenInvest Pakistan 4.5.0 uses the **GreenInvest 2026 LESCO reference
 schedule** for residential, commercial, and industrial calculations. The
 calculator selects the applicable row from the consumer's connection type,
 monthly use, connected load, and connection phase.
