@@ -2,7 +2,7 @@
 
 Product-facing release history for the official live calculator and standalone
 Windows application. Downloadable files and integrity information are published
-on the [release page](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases).
+on the [release page](https://github.com/mbax0009/GreenInvest-Pakistan/releases).
 
 ## 4.5.0 — 28 August 2026
 

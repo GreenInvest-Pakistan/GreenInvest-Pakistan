@@ -12,7 +12,7 @@
 
 ## Install
 
-1. Open the [latest release](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest).
+1. Open the [latest release](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest).
 2. Download `GreenInvest-Windows-x64.zip` and the SHA-256 checksum file.
 3. Verify the archive.
 4. Use Windows **Extract All** and run `GreenInvest.exe` from the extracted folder.
@@ -42,5 +42,5 @@ page, and do not use a package whose checksum differs.
 The ZIP includes `RELEASE-MANIFEST.txt` and a `THIRD-PARTY-LICENSES` directory
 containing the exact bundled dependency manifest and redistribution notices.
 
-[Download the official release](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest)
+[Download the official release](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest)
 or return to the [product overview](README.md).

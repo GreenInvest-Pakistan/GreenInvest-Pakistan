@@ -4,8 +4,8 @@
 | --- | --- |
 | Use GreenInvest now | [Open the live calculator](https://greeninvest-pakistan.vercel.app) |
 | Install on Windows | [Release and verification guide](RELEASES.md) |
-| Report a product problem | [Open a structured issue](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/issues/new/choose) |
-| Report a security problem | [Submit a private vulnerability report](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new) |
+| Report a product problem | [Open a structured issue](https://github.com/mbax0009/GreenInvest-Pakistan/issues/new/choose) |
+| Report a security problem | [Submit a private vulnerability report](https://github.com/mbax0009/GreenInvest-Pakistan/security/advisories/new) |
 
 ## Before opening an issue
 
@@ -23,7 +23,7 @@ private installer quotations, saved-plan files, or screenshots containing
 personal information. Describe the issue with synthetic values instead.
 
 Sensitive security problems belong in a
-[private vulnerability report](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new),
+[private vulnerability report](https://github.com/mbax0009/GreenInvest-Pakistan/security/advisories/new),
 not a public issue.
 
 This repository cannot provide individual installer selection, structural

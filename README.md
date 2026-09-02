@@ -7,15 +7,21 @@
 <p align="center"><strong>Your electricity data. One clear solar decision.</strong></p>
 
 <p align="center">
-  GreenInvest turns electricity use, the current and desired bill, budget,
-  roof space and backup needs into a practical recommendation for solar,
-  battery storage and inverter capacity.
+  GreenInvest Pakistan is a consumer solar calculator and decision-support
+  system for Pakistan. It turns electricity use, current and desired bills,
+  budget, roof space and backup needs into a practical recommendation for
+  solar PV, battery storage and inverter capacity.
+</p>
+
+<p align="center">
+  Residential · Commercial · Industrial · Solar sizing · Battery backup ·
+  Electricity-bill forecasting · Installer quote checks · Financial risk
 </p>
 
 <p align="center">
   <a href="https://greeninvest-pakistan.vercel.app"><strong>Open the live calculator</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest/download/GreenInvest-Windows-x64.zip"><strong>Download for Windows</strong></a>
+  <a href="https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest/download/GreenInvest-Windows-x64.zip"><strong>Download for Windows</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://greeninvest-pakistan.vercel.app/impact/"><strong>View project impact</strong></a>
 </p>
@@ -120,7 +126,7 @@ on a phone, tablet or computer. No installation is required.
 
 ### Standalone Windows application
 
-1. [Download the latest Windows ZIP](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest/download/GreenInvest-Windows-x64.zip).
+1. [Download the latest Windows ZIP](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest/download/GreenInvest-Windows-x64.zip).
 2. Right-click it and select **Extract All**.
 3. Open the extracted folder and run `GreenInvest.exe`.
 
@@ -162,12 +168,12 @@ warranties, utility treatment and complete payable bill.
 
 | Resource | Official location |
 | --- | --- |
-| Current release | [GreenInvest Pakistan 4.5.0](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/releases/latest) |
+| Current release | [GreenInvest Pakistan 4.5.0](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest) |
 | Consumer tariff reference | [2026 residential, commercial, and industrial schedule](TARIFFS.md) |
 | Windows verification | [Installation and SHA-256 instructions](RELEASES.md) |
 | Product support | [Support guide](SUPPORT.md) |
-| Product issue | [Open a structured issue](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/issues/new/choose) |
-| Sensitive security report | [Private vulnerability reporting](https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new) |
+| Product issue | [Open a structured issue](https://github.com/mbax0009/GreenInvest-Pakistan/issues/new/choose) |
+| Sensitive security report | [Private vulnerability reporting](https://github.com/mbax0009/GreenInvest-Pakistan/security/advisories/new) |
 | Privacy | [Privacy summary](PRIVACY.md) |
 
 Do not attach electricity bills, addresses, account numbers, private

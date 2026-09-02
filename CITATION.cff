@@ -5,8 +5,16 @@ type: software
 version: 4.5.0
 date-released: 2026-08-28
 authors:
-  - name: "GreenInvest Pakistan"
-repository-code: "https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan"
+  - family-names: "Asad"
+    given-names: "Muhammad Bin"
+repository-code: "https://github.com/mbax0009/GreenInvest-Pakistan"
 url: "https://greeninvest-pakistan.vercel.app"
 abstract: "Pakistan-specific solar decision support covering household through multi-megawatt system sizing, bills, battery backup, risk, uncertainty, and installer-quote screening."
+keywords:
+  - solar energy
+  - solar calculator
+  - battery storage
+  - energy modelling
+  - financial analysis
+  - Pakistan
 license: LicenseRef-GreenInvest-Proprietary

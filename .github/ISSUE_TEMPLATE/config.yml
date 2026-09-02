@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Sensitive security report
-    url: https://github.com/GreenInvest-Pakistan/GreenInvest-Pakistan/security/advisories/new
+    url: https://github.com/mbax0009/GreenInvest-Pakistan/security/advisories/new
     about: Report vulnerabilities privately instead of opening a public issue.
   - name: Live GreenInvest calculator
     url: https://greeninvest-pakistan.vercel.app
