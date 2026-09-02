@@ -180,6 +180,11 @@ Do not attach electricity bills, addresses, account numbers, private
 quotations, saved plans, access tokens or other personal information to a
 public GitHub issue.
 
+## Related work
+
+- [Pakistan Energy Simulator](https://github.com/mbax0009/Pakistan-Energy-Simulator) — utility-scale solar, wind and wave resource modelling, project economics and uncertainty analysis.
+- [Muhammad Bin Asad's portfolio](https://mbax0009.github.io/) — product background, project context and selected engineering work.
+
 ## Product ownership
 
 GreenInvest Pakistan is independently owned. This public repository provides
